@@ -9,3 +9,8 @@
 8.git checkout -- . or git checkout -- <file>                   'برگشتن به حالت قبلی قبل از ادد دات'
 9.git reset HEAD                                                'خارج کردن از استیج'
 10.git merge <file>                                             'متصل کردن یک برنچ به برنچ دیگه'
+11.git stash                                                    'اضافه کردن یک تغییر به استش'
+12.git stash list                                               'دیدن همه استش ها'
+13.git stash drop <stash name>                                  'پاک کردن استش'
+14.git stash pop <stash name>                                   'حذف از استش و اضافه کردن به حالت استیج'
+15.git stash apply <stash name>                                 ' اضافه کردن به حالت استیج اما از استش پاک نمی کند'
