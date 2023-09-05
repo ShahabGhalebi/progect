@@ -15,4 +15,3 @@
 14.git stash pop <stash name>                                   'حذف از استش و اضافه کردن به حالت استیج'
 15.git stash apply <stash name>                                 ' اضافه کردن به حالت استیج اما از استش پاک نمی کند'
 16.touch .gitignore                                             'ساخت فایل gitignore برای اینکه git یه سری از فایل ها یا پوشه ها را دنبال نکند'
-fyghjhg
